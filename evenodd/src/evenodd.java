@@ -19,6 +19,7 @@ public class evenodd {
             }
         }
         System.out.println(counteven);
+        System.out.println(countodd);
     }
 }
 
